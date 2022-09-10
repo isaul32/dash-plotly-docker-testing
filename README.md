@@ -2,6 +2,10 @@
 
 This repository is for testing how Dash Plotly visualization framework can be dockerized.
 
+## Architecture
+
+![Architecture diagram](/architecture-diagram.drawio.png)
+
 ## Technologies
 
 - Docker
