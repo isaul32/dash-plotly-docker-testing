@@ -2,10 +2,6 @@
 
 This repository is for testing how Dash Plotly visualization framework can be dockerized.
 
-## Architecture
-
-![Architecture diagram](/architecture-diagram.drawio.png)
-
 ## Technologies
 
 - Docker
@@ -13,7 +9,11 @@ This repository is for testing how Dash Plotly visualization framework can be do
 - Dash
 - Dash for R
 
-## Setup
+## Architecture
+
+![Architecture diagram](/architecture-diagram.drawio.png)
+
+## User guide
 
 Build & run containers:
 
@@ -27,12 +27,12 @@ Remove the stack:
 docker compose down
 ```
 
-## Dash Pages
+## Dash pages
 
 - http://dash.localhost:8080/
 - http://dash.localhost:8080/archive
 - http://dash.localhost:8080/analytics
 
-## Dash for R Pages
+## Dash for R pages
 
 - http://dashr.localhost:8080/
