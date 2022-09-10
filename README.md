@@ -36,3 +36,10 @@ docker compose down
 ## Dash for R pages
 
 - http://dashr.localhost:8080/
+
+## Useful links
+
+- [Dash Python User Guide](https://dash.plotly.com/)
+- [Dash R User Guide](https://dash.plotly.com/r)
+- [Deploying Dash Apps](https://dash.plotly.com/deployment)
+- [Multi-Page Apps and URL Support](https://dash.plotly.com/urls)
